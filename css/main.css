@@ -360,7 +360,7 @@
 }
 .phone_wrapper {
   width: 100%;
-  background-image: url("../../img/bg/phone_egg.png");
+  background-image: url("../img/bg/phone_egg.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 50%;
@@ -446,7 +446,7 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../../img/bg/mushroom.png");
+  background-image: url("../img/bg/mushroom.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 50%;
@@ -476,7 +476,7 @@
 }
 .track_wrapper {
   width: 100%;
-  background-image: url("../../img/bg/track.png");
+  background-image: url("../img/bg/track.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 50%;
@@ -529,7 +529,7 @@
 }
 .vegetable_wrapper {
   width: 100%;
-  background-image: url("../../img/bg/app.png");
+  background-image: url("../img/bg/app.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 100% 0%;
@@ -889,7 +889,7 @@
 }
 .lang {
   overflow: hidden;
-  background: url(../../img/images/arrow.png) no-repeat right #DDD;
+  background: url(../img/images/arrow.png) no-repeat right #DDD;
   background-color: #212121;
 }
 @media (max-width: 767px) {
