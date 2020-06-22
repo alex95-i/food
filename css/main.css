@@ -610,7 +610,7 @@ margin:0 !important;
 }
 @media (max-width: 767px) {
   .icons img {
-    width: 30px;
+    width: 25px;
   }
 }
 .get_started {
