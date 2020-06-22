@@ -603,6 +603,11 @@ margin:0 !important;
   margin-right: 20px;
   width: 170px;
 }
+@media (max-width: 767px) {
+  .icons img {
+    width: 25px;
+  }
+}
 @media (min-width: 768px) and (max-width: 1439px) {
   .icons img {
     width: 80px;
