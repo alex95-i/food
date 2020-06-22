@@ -51,7 +51,7 @@
   width: 100%;
   position: relative;
   margin: 0 auto;
-  background-image: url(https://github.com/alex95-i/food/blob/master/img/bg/header.png");
+  background-image: url(../img/bg/header.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 100% 0%;
