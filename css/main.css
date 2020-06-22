@@ -920,7 +920,7 @@
   -moz-appearance: none;
   -ms-appearance: none;
   appearance: none !important;
-  background-image: url(../../img/images/arrow.svg);
+  background-image: url(../img/images/arrow.svg);
 }
 @media (min-width: 2560px) {
   .lang select {
