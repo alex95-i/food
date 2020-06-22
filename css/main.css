@@ -56,7 +56,6 @@
   background-size: contain;
   background-position: 100% 0%;
   padding-bottom: 30%;
-  z-index: 1;
 }
 @media (min-width: 768px) {
   .sign_up {
