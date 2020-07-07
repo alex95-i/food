@@ -926,28 +926,18 @@ margin:0 !important;
       width: 50%;
 
   @media (min-width: 2560px)   {
-
-      font-size: 3em; 
- 
+    font-size: 3em; 
  }
-
-
-	  @media (min-width: 768px) and (max-width: 1023px)   {
-
+ @media (min-width: 768px) and (max-width: 1023px)   {
        font-size: 0.7em; 
  }
-
     @media (max-width: 767px)   {
-
        font-size: 0.1em; 
-
 }
 }
 
 .lang option {
-
     background-color:  #212121; 
-
 }
 .about {
   margin-left: 5%;
