@@ -907,41 +907,48 @@ margin:0 !important;
   }
 }
 .lang select {
-  background-color: #212121;
-  color: #fff;
-  border: none;
-  font-size: 1em;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 2;
-  letter-spacing: -0.6px;
-  text-align: center;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -ms-appearance: none;
-  appearance: none !important;
-  padding-right: 5px;
-  background: url(../img/images/arrow.png) no-repeat right;
-  width: 50%;
+
+      background-color:  #212121; 
+      color:#fff;
+      border:none;
+      font-size: 1em;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 2;
+      letter-spacing: -0.6px;
+      text-align: center;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      -ms-appearance: none;
+      appearance: none !important;
+      padding-right: 5px;
+      background: url(../img/images/arrow.png) no-repeat right;
+      width: 50%;
+
+  @media (min-width: 2560px)   {
+
+      font-size: 3em; 
+ 
+ }
+
+
+	  @media (min-width: 768px) and (max-width: 1023px)   {
+
+       font-size: 0.7em; 
+ }
+
+    @media (max-width: 767px)   {
+
+       font-size: 0.1em; 
+
 }
+}
+
 .lang option {
+
     background-color:  #212121; 
-}
-@media (min-width: 2560px) {
-  .lang select {
-    font-size: 3em;
-  }
-}
-@media (min-width: 768px) and (max-width: 1023px) {
-  .lang select {
-    font-size: 0.7em;
-  }
-}
-@media (max-width: 767px) {
-  .lang select {
-    font-size: 0.1em;
-  }
+
 }
 .about {
   margin-left: 5%;
