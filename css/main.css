@@ -891,7 +891,6 @@ margin:0 !important;
 }
 .lang {
   overflow: hidden;
-  background: url(../img/images/arrow.png) no-repeat right #DDD;
   background-color: #212121;
 }
 @media (max-width: 767px) {
@@ -922,7 +921,12 @@ margin:0 !important;
   -moz-appearance: none;
   -ms-appearance: none;
   appearance: none !important;
-  background-image: url(../img/images/arrow.svg);
+  padding-right: 5px;
+  background: url(../../img/images/arrow.png) no-repeat right;
+  width: 50%;
+}
+.lang option {
+    background-color:  #212121; 
 }
 @media (min-width: 2560px) {
   .lang select {
