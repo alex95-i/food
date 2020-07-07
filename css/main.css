@@ -924,7 +924,9 @@ margin:0 !important;
       padding-right: 5px;
       background: url(../img/images/arrow.png) no-repeat right;
       width: 50%;
+}
 
+.lang select {
   @media (min-width: 2560px)   {
     font-size: 3em; 
  }
@@ -932,9 +934,8 @@ margin:0 !important;
        font-size: 0.7em; 
  }
     @media (max-width: 767px)   {
-       font-size: 0.1em; 
-}
-}
+        font-size: 0.1em;
+}}
 
 .lang option {
     background-color:  #212121; 
