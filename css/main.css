@@ -922,7 +922,7 @@ margin:0 !important;
   -ms-appearance: none;
   appearance: none !important;
   padding-right: 5px;
-  background: url(../../img/images/arrow.png) no-repeat right;
+  background: url(../img/images/arrow.png) no-repeat right;
   width: 50%;
 }
 .lang option {
